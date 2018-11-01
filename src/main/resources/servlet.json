@@ -1,0 +1,20 @@
+{
+	"www.was-path-1.com" : {
+		"package" : "was.path1",
+		"class" : {
+			"now" : "Now",
+			"hello" : "Hello",
+			"sub-hello" : "sub.SubHello",
+			"error-test" : "InternalServerError"
+		}
+	},
+	"www.was-path-2.com" : {
+		"package" : "was.path2",
+		"class" : {
+			"now" : "Now",
+			"hello" : "Hello",
+			"sub-hello" : "sub.SubHello",
+			"error-test" : "InternalServerError"
+		}
+	}
+}
